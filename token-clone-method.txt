@@ -1,0 +1,19 @@
+main github:
+
+	- git clone https://{YOUR_PERSONAL_TOKEN}@github.com/{YOUR_USERNAME}/{YOUR_REPO}           
+		Replace {YOUR_PERSONAL_TOKEN} with your token from step 1
+		Replace {YOUR_USERNAME} with your username from step 0 and 1 
+		Rplace {YOUR_REPO} with your repo name
+	for example: git clone https://ghp_JGmHlAsYpNy79lGHw3qghTMRuFpmqH2dLKCN@github.com/mohammed761-dl/alx-pre_course
+
+	git config --global user.email "you@example.com"
+	git config --global user.name "Your Name"
+		Replace "you@example.com" with your email
+		Replace "Your Name" with your username
+	for example:
+		git config --global user.email "mohammedcherkaoui761@gmail.com"
+		git config --global user.name "mohammed761-dl"
+
+	tkoen: -----------------
+	email: mohammedcherkaoui761@gmail.com
+	username: mohammed761-dl
